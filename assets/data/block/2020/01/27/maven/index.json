@@ -1,0 +1,1 @@
+{"hash":"01af8e6ff37d30eea9fa800ac3fd77c1061fa915","data":{"post":{"title":"maven","date":"January 27, 2020","content":"<ul>\n<li>maven安装本地jar</li>\n</ul>\n<p>mvn install:install-file -Dfile=D:/che/maven_repository/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.jar -DgroupId=com.oracle -DartifactId=ojdbc7 -Dversion=12.1.0.2 -Dpackaging=jar</p>\n"}},"context":{}}
